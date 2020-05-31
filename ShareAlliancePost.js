@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         ShareAlliancePost
 // @namespace    Leitstellenspiel
-// @version      3.5.2
+// @version      3.5.3
 // @author       jalibu, JuMaHo, BayHH, christianlouis
 // @include      https://www.leitstellenspiel.de/missions/*
-// @updateURL    https://www.dropbox.com/s/kzl9m93g01q4olv/ShareAlliancePost.js?dl=0
-// @downloadURL  https://www.dropbox.com/s/kzl9m93g01q4olv/ShareAlliancePost.js?dl=0
+// @updateURL    https://raw.githubusercontent.com/christianlouis/LSS-misc/master/ShareAlliancePost.js
+// @downloadURL  https://raw.githubusercontent.com/christianlouis/LSS-misc/master/ShareAlliancePost.js
 // ==/UserScript==
 
 (() => {
